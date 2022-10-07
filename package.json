@@ -1,0 +1,26 @@
+{
+  "name": "it122-variables-copy",
+  "version": "1.0.0",
+  "description": "variables problems",
+  "main": "01 let_cannot_be_redeclared.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint *.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TMerco/it122-variables.git"
+  },
+  "keywords": [
+    "variables"
+  ],
+  "author": "Tyrell",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TMerco/it122-variables/issues"
+  },
+  "homepage": "https://github.com/TMerco/it122-variables#readme",
+  "devDependencies": {
+    "eslint": "^8.24.0"
+  }
+}
